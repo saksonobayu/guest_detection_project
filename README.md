@@ -1,11 +1,11 @@
 # guest_detection_project
-**requirements**
-python 3.7
-xampp 7
-visual studio code
+**requirements**<br/>
+- python 3.7
+- xampp 7
+- visual studio code
 
 
-**how to run**
+**how to run**<br/>
 activate the env then flask run
 
 __
