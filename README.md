@@ -1,6 +1,6 @@
 # guest_detection_project
 **<requirements>**
-python 3.7
+python 3.7 (p)
 xampp 7
 visual studio code
 
